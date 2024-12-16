@@ -1,3 +1,4 @@
 .env
-__pycache__/
+get-my-issues
 jira-venv/
+__pycache__/
